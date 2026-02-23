@@ -1,0 +1,15 @@
+{
+  "name": "mission-control",
+  "version": "1.0.0",
+  "description": "Local-first Mission Control dashboard for AI operations",
+  "main": "server/server.js",
+  "scripts": {
+    "start": "node server/server.js",
+    "dev": "node --watch server/server.js",
+    "setup": "npm install",
+    "one-click": "node one-click.js"
+  },
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}

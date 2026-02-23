@@ -1,0 +1,42 @@
+[
+  {
+    "id": "agent-ops",
+    "name": "Sentinel",
+    "role": "Operations",
+    "model": "gpt-4o-mini",
+    "provider": "OpenAI",
+    "status": "active",
+    "capabilities": ["monitoring", "process-optimization", "escalation-control"],
+    "tools": ["health-checker", "scheduler", "cost-governor"]
+  },
+  {
+    "id": "agent-pm",
+    "name": "Atlas",
+    "role": "Project Manager",
+    "model": "claude-3-5-sonnet",
+    "provider": "Anthropic",
+    "status": "active",
+    "capabilities": ["roadmap-planning", "kanban-supervision", "risk-tracking"],
+    "tools": ["project-board", "timeline-planner", "status-reporter"]
+  },
+  {
+    "id": "agent-research",
+    "name": "Nova",
+    "role": "Research Agent",
+    "model": "gemini-1.5-pro",
+    "provider": "Google",
+    "status": "idle",
+    "capabilities": ["trend-analysis", "competitive-intel", "market-briefing"],
+    "tools": ["intel-feed", "brief-generator", "web-scan-adapter"]
+  },
+  {
+    "id": "agent-content",
+    "name": "Pulse",
+    "role": "Content Creator",
+    "model": "gpt-4.1-mini",
+    "provider": "OpenAI",
+    "status": "active",
+    "capabilities": ["copywriting", "campaign-planning", "script-generation"],
+    "tools": ["content-calendar", "brand-voice", "youtube-growth-adapter"]
+  }
+]

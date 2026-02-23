@@ -1,0 +1,9 @@
+{
+  "goal": 50000,
+  "current": 18000,
+  "milestones": [
+    {"name": "First 10K", "value": 10000},
+    {"name": "Halfway 25K", "value": 25000},
+    {"name": "Target 50K", "value": 50000}
+  ]
+}

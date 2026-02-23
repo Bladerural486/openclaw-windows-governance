@@ -1,0 +1,16 @@
+[
+  {
+    "id": "contact-1",
+    "name": "Avery Cole",
+    "company": "Northstar Labs",
+    "stage": "Discovery",
+    "notes": "Interested in a monthly AI ops retainer."
+  },
+  {
+    "id": "contact-2",
+    "name": "Jordan Kim",
+    "company": "Brightline Studio",
+    "stage": "Proposal",
+    "notes": "Waiting on legal review by Friday."
+  }
+]
