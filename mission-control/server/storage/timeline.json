@@ -1,0 +1,5 @@
+[
+  {"id": "phase-1", "title": "Foundation", "date": "2026-03-15", "target": "Operational stability + 10K revenue", "status": "in-progress"},
+  {"id": "phase-2", "title": "Scale", "date": "2026-06-30", "target": "Multi-agent campaigns + 25K revenue", "status": "planned"},
+  {"id": "phase-3", "title": "Boss Battle", "date": "2026-09-30", "target": "Automated growth engine + 50K revenue", "status": "planned"}
+]

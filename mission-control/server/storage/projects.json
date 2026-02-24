@@ -1,0 +1,14 @@
+{
+  "ideas": [
+    {"id": "idea-1", "title": "Launch micro-course", "owner": "Atlas", "priority": "high"}
+  ],
+  "active": [
+    {"id": "active-1", "title": "Automate onboarding funnel", "owner": "Sentinel", "priority": "high"}
+  ],
+  "waiting": [
+    {"id": "waiting-1", "title": "Partnership proposal review", "owner": "Nova", "priority": "medium"}
+  ],
+  "complete": [
+    {"id": "complete-1", "title": "Q1 dashboard baseline setup", "owner": "Pulse", "priority": "low"}
+  ]
+}

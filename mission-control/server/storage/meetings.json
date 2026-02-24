@@ -1,0 +1,11 @@
+[
+  {
+    "id": "meeting-1",
+    "title": "Growth sync",
+    "duration": 30,
+    "actionItems": [
+      {"task": "Publish weekly KPI report", "done": true},
+      {"task": "Finalize ad test matrix", "done": false}
+    ]
+  }
+]
